@@ -8,7 +8,7 @@ Music app created with React.js
 Contains:
 * Responsive Design
 * Sass for styling
-* Fortawesome 
+* Fontawesome 
 * React Hooks for simple state management
 * Library UI 
 * Functional music player
